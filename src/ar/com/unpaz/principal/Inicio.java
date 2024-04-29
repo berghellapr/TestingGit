@@ -8,6 +8,7 @@ import ar.com.unpaz.hilos.Hilo4;
 public class Inicio {
 
 	public static void main(String[] args) throws InterruptedException {
+		
 		Hilo1 hilo1 = new Hilo1();
 		Hilo2 hilo2 = new Hilo2();
 		Hilo3 hilo3 = new Hilo3();
